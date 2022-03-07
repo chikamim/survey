@@ -1,4 +1,4 @@
-module github.com/chikamim/survey
+module github.com/chikamim/survey/v2
 
 require (
 	github.com/Netflix/go-expect v0.0.0-20180615182759-c93bf25de8e8
